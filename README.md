@@ -26,7 +26,7 @@ COVERED TOPICS:
 - Day 01: C++ Basics for DSA
 - Day 02: Loops and Conditional Statements
 - Day 03: Functions and Pattern Problems
-  Day 04: Time and Space Complexity
+- Day 04: Time and Space Complexity
 - Day 05: Arrays – Basics
 - Day 06: Array Problems
 - Day 07: Searching Algorithms
