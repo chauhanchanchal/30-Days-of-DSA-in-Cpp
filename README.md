@@ -5,10 +5,10 @@ A 30-day structured learning series for Data Structures and Algorithms in C++ wi
 Each folder represents daily progress with code and notes.
 
 COVERED TOPICS:
-- Time & Space Complexity
 - C++ Basics (cin, cout, data types)
 - Conditionals & Loops
 - Functions & Pattern Problems
+- Time & Space Complexity
 - Arrays (1D & 2D)
 - Searching (Linear, Binary)
 - Sorting (Bubble, Selection, Insertion)
@@ -23,10 +23,10 @@ COVERED TOPICS:
 - Trees (Binary Tree, BST)
 
 ## Week 1: Fundamentals
-- Day 01: Time and Space Complexity
-- Day 02: C++ Basics for DSA
-- Day 03: Loops and Conditional Statements
-- Day 04: Functions and Pattern Problems
+- Day 01: C++ Basics for DSA
+- Day 02: Loops and Conditional Statements
+- Day 03: Functions and Pattern Problems
+  Day 04: Time and Space Complexity
 - Day 05: Arrays – Basics
 - Day 06: Array Problems
 - Day 07: Searching Algorithms
