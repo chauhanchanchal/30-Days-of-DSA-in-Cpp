@@ -48,7 +48,7 @@ The main function is the starting point of execution.
 { }
 Curly braces define the block of code.
 
-# return 0;
+### return 0;
 Ends the program successfully.
 
 ---
@@ -109,10 +109,11 @@ multi-line comment
 Data types define the type of data a variable can store.
 
 |Data Type	|Description|	Example|
+|----|-------------|-------------|
 |int|	Integer numbers	|10|
 |float	|Decimal numbers|	3.14|
 |double|	Large decimals|	3.14159|
-|char|	Single character|	'A'
+|char|	Single character|	'A'|
 |bool	|True or False	|true|
 
 **Example:**
