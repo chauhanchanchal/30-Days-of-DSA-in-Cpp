@@ -3,7 +3,8 @@
 ---
 ## Day 02 Visual Notes
 
-![Day 02 Conditional Statements and Loops](../images/Day-02.png)
+![Day 02 – Conditional Statements and Loops](images/Day-2.png)
+
 
 
 ## 1. Conditional Statements
