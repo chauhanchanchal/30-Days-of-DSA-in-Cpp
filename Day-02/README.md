@@ -206,6 +206,23 @@ for (int i = 1; i <= 5; i++) {
 - Understood nested loops
 - Used loop control statements: `break` and `continue`
 
+## 🧪 Practice Questions – Day 02
+
+Try to solve these problems using **conditional statements and loops**.  
+
+| No. | Problem Statement | Concepts Used |
+|----|------------------|---------------|
+| 1 | Write a program to check whether a given number is **positive, negative, or zero**. | if–else |
+| 2 | Write a program to check whether a given number is **even or odd**. | if–else |
+| 3 | Write a program to print numbers from **1 to N** using a `for` loop. | for loop |
+| 4 | Write a program to print the **sum of first N natural numbers**. | loop, variable |
+| 5 | Write a program to print the **multiplication table** of a given number. | for loop |
+| 6 | Write a program to **count the digits** in a given number. | while loop |
+| 7 | Write a program to print numbers from **1 to 20**, but **skip multiples of 3** using `continue`. | loop, continue |
+
+---
+
+
 
 📌 End of Day 02
 
