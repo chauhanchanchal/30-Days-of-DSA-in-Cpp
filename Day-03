@@ -1,0 +1,23 @@
+# Day-03 functions & pattens
+##Topics Covered
+
+⸻
+
+###1️⃣ Functions in C++
+
+##🔹 What is a Function?
+
+A function is a block of code that performs a specific task and runs only when called.
+###Why Use Functions?
+	•	Avoid code repetition
+	•	Improve readability
+	•	Make debugging easier
+	•	Essential for large programs and DSA
+
+**Function Syntax**
+'''cpp
+return_type function_name(parameters) {
+    // function no
+
+'''
+
