@@ -173,6 +173,8 @@ for(int i = n - 1; i >= 1; i--){
 |8|	Number triangle pattern	|08_number_triangle.cpp|
 
 ### LeetCode (Day 03 – Must Solve)
+|No.|	Problem|	
+|----|-------------|
 | 1.| Two Sum|
 | 2.| Palindrome Number|
 | 3.| Reverse Integer|
