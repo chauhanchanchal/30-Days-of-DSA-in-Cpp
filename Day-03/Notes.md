@@ -157,14 +157,16 @@ for(int i = n - 1; i >= 1; i--){
 
 ### 🔹 Function-Based Problems
 
-No.	Problem	File Name
+|No.|	Problem|	File Name|
+|----|-------------|-------------|
 |1|	Add two numbers using function	||01_add_two_numbers.cpp    |  
 |2|	Check even or odd using function|	02_even_odd_function.cpp|
 |3|	Find factorial using function	|03_factorial_function.cpp|
 |4|	Check prime number using function|	04_prime_function.cpp|
 
 🔹 Pattern Problems
-No.	Pattern	File Name
+|No.|	Problem|	File Name|
+|----|-------------|-------------|
 |5|	Square star pattern	|05_square_pattern.cpp|
 |6|	Right triangle star pattern	|06_right_triangle.cpp|
 |7|	Inverted triangle star pattern	|07_inverted_triangle.cpp|
